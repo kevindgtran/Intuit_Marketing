@@ -1,7 +1,6 @@
 # Intuit
 
 ## Fully interactive Marketing & Recruiting web page!
-
 <p align="center"> <img src="/images/Intuit_giphy.gif" width="600"> </p>
 
 ### Overview
